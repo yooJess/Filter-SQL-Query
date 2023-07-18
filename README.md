@@ -1,4 +1,4 @@
-<h1>Creating and Managing Directory and Files in Linux</h1>
+<h1>Filtering an SQL Query</h1>
 
 <h2>Description</h2>
 In this project, we will be filtering an SQL Query.<br/> 
