@@ -36,7 +36,12 @@ In this project, we will be filtering an SQL Query.<br/>
  <br/>
     <img src="https://i.imgur.com/AqPhhcF.png" height="80%" width="80%" alt="All South 109"/><br/>
 <br/>
-<br/> <!--
+<br/> 
+  Note:<br/>The LIKE keyword in SQL performs simple string matches. The matching pattern may include the wildcard <i>%</i> to represent a string of any length. This wildcard may be placed both before and after the targeted substring.
+  <br/>
+  <br/>
+  <br> This is my project on applying the 'WHERE' clause, to filter an SQL return and also utilize the 'LIKE' operator to filter and look for patterns!
+  <!--
 <b>6. </b>Let's organize this chart by 'login_date' so we can read it easier.<br/>
 <br/>
     <img src="https://i.imgur.com/ZkH4vrg.png" height="80%" width="80%" alt="Organize by Login Dates"/><br/>
